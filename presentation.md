@@ -34,7 +34,7 @@
 - json files make it easier to share workflows
 - installing models and extentions can be easier (sometimes)
 
-<!-- https://replicate.com/guides/comfyui -->
+<!-- https://replicate.com/guides/comfyui -->f 
 
 ---
 ## AnimateDiff + Mixing & Matching
